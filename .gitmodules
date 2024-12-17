@@ -1,0 +1,3 @@
+[submodule "my-first-project"]
+	path = my-first-project
+	url = https://ahmed-jscode.github.io/my-first-project/
